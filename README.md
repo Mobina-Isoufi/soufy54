@@ -6,5 +6,6 @@ Aspiring AI/ML & Security Developer | Python Enthusiast
 - Building small Python projects
 
 📫 Connect with me:
+
 -LinkedIn: [www.linkedin.com/in/mobina-sufi-1286a4357]  
 -Telegram:[https://t.me/Techcod_e]
