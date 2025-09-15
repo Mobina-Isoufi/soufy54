@@ -1,5 +1,5 @@
 Hi, I'm Mobina 👋
-Aspiring AI/ML & Security Developer | Python Enthusiast
+Aspiring AI/ML Developer | Python Enthusiast
 
 🔭 Currently working on:
 - Learning AI/ML fundamentals
